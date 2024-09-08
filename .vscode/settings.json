@@ -17,6 +17,24 @@
     "files.associations": {
         "freertos.h": "c",
         "esp_wifi.h": "c",
-        "sdkconfig.h": "c"
-    }
+        "sdkconfig.h": "c",
+        "nvs_flash.h": "c",
+        "esp_log.h": "c",
+        "fastscan.h": "c",
+        "compare": "cpp",
+        "cstdint": "cpp",
+        "format": "c",
+        "ble.h": "c",
+        "cstdio": "c",
+        "ble_if.h": "c",
+        "stdio.h": "c",
+        "nimble_port.h": "c",
+        "ble_svc_gatt.h": "c",
+        "ble_svc_gap.h": "c",
+        "ble_hs.h": "c",
+        "nimble_port_freertos.h": "c",
+        "esp_bt.h": "c"
+    },
+    "idf.flashType": "UART",
+    "idf.portWin": "COM3"
 }
